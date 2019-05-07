@@ -14,7 +14,8 @@
 > Project is created with:
 
 * HTML5 
-* CSS3 
+* CSS3
+* Sass
 * Bootstrap 4
 * jQuery
 

@@ -10,3 +10,6 @@ patch:
         patched: '2020-07-21T20:16:08.136Z'
     - compile-sass > node-sass > gaze > globule > lodash:
         patched: '2020-07-21T20:16:08.136Z'
+  SNYK-JS-LODASH-450202:
+    - compile-sass > node-sass > gaze > globule > lodash:
+        patched: '2020-07-21T20:21:59.260Z'

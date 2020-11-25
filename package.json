@@ -20,7 +20,7 @@
     "bootstrap": "^4.3.1",
     "compile-sass": "^1.0.5",
     "jquery": "^3.5.0",
-    "snyk": "^1.364.0"
+    "snyk": "^1.425.4"
   },
   "devDependencies": {
     "autoprefixer": "^9.5.0",
